@@ -1,8 +1,8 @@
 import {
   frontend,
   backend,
-  ux,
-  prototyping,
+  // ux,
+  // prototyping,
   javascript,
   typescript,
   html,
@@ -22,7 +22,7 @@ import {
   math,
   movie,
   nyeusi,
-  space,
+  // space,
   coverhunt,
   dcc,
   kelhel,
@@ -53,14 +53,14 @@ const services = [
     title: 'Backend Developer',
     icon: backend,
   },
-  {
-    title: 'UI/UX Design',
-    icon: ux,
-  },
-  {
-    title: 'Software Prototyping',
-    icon: prototyping,
-  },
+  // {
+  //   title: 'UI/UX Design',
+  //   icon: ux,
+  // },
+  // {
+  //   title: 'Software Prototyping',
+  //   icon: prototyping,
+  // },
 ];
 
 const technologies = [

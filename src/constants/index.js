@@ -82,32 +82,25 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
-    icon: coverhunt,
-    iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
-  },
-  {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'Cross-Functional Store Manager',
+    company_name: 'Carmax',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Mar 2019 - Present',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
+    title: 'Software Developer',
+    company_name: 'Thinkful',
+    icon: coverhunt,
+    iconBg: '#333333',
+    date: 'Aug 2023 - Jan 2024',
+  },
+  {
+    title: 'Sales manager',
+    company_name: 'Sprint',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
-  },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
-    icon: dcc,
-    iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'May 2014 - Mar 2019',
   },
 ];
 

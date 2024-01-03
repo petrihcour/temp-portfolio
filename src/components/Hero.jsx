@@ -2,21 +2,21 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
-import { shaq, bwmap, worldmap } from '../assets';
+import { vanessa, nuke, blackstripes, upsidedown } from '../assets';
 
 const Hero = () => {
   return (
     <>
       <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
         <img
-          src={bwmap}
+          src={blackstripes}
           alt="world map"
           className="w-full h-full sm:block hidden object-cover"
         />
       </div>
       <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
         <img
-          src={worldmap}
+          src={blackstripes}
           alt="world map"
           className="w-full h-full sm:hidden block object-cover"
         />
@@ -83,11 +83,11 @@ const Hero = () => {
         {/* Your image comes here. Feel free to remove image if you don't plan to have one.*/}
         <div>
           <img
-            className="absolute bottom-0 ml-[50vw] 
-            lg:ml-[75vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[83vw]
-            sm:h-[90vh] md:h-[70vh] xl:h-[80vh]"
-            src={shaq}
-            alt="shaquille"
+            className="absolute bottom-0 ml-[55vw] 
+            lg:ml-[67vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[72vw]
+            sm:h-[60vh] md:h-[65vh] xl:h-[80vh]"
+            src={vanessa}
+            alt="vanessa"
           />
         </div>
       </section>

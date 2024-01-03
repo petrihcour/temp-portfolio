@@ -1,12 +1,16 @@
-import bwmap from './backgrounds/bw-map.jpeg';
 import nairobi from './backgrounds/nairobi.png';
 import whiteabstract from './backgrounds/white-abstract.png';
-import worldmap from './backgrounds/world-map.png';
+import blackstripes from './backgrounds/black-stripes.jpeg';
+import bw from './backgrounds/bw.jpeg';
+import upsidedown from './backgrounds/upsidedown.jpeg';
+import nuke from './backgrounds/nuke.jpeg'
+import sideways from './backgrounds/sideways.jpeg'
 
 import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
-import shaq from './personal/shaq.png';
+import vanessa from './personal/vanessa.jpeg';
+import vanessa2 from './personal/vanessa2.jpeg';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -44,13 +48,17 @@ import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 
 export {
-  bwmap,
+  bw,
+  sideways,
+  upsidedown,
   nairobi,
+  nuke, 
   whiteabstract,
-  worldmap,
+  blackstripes,
   logo,
   logotext,
-  shaq,
+  vanessa,
+  vanessa2,
   backend,
   ux,
   frontend,

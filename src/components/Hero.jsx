@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
-import { vanessa, nuke, blackstripes, upsidedown } from '../assets';
+import { vanessa, blackstripes } from '../assets';
 
 const Hero = () => {
   return (

@@ -33,14 +33,12 @@ import postgresql from './tech/postgresql.png';
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
-import microverse from './company/microverse.png';
 
-import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
 import math from './projects/math-magicians.png';
 import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
+import thinkfulbnb from './projects/Thinkfulbnb.png'
 
 export {
   upsidedown,
@@ -70,8 +68,6 @@ export {
   nodejs,
   postgresql,
   reactjs,
-  komikult,
-  leaderboard,
   math,
   movie,
   nyeusi,
@@ -79,5 +75,5 @@ export {
   coverhunt,
   dcc,
   kelhel,
-  microverse,
+  thinkfulbnb,
 };

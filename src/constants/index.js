@@ -10,16 +10,8 @@ import {
   nodejs,
   git,
   postgresql,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
+  thinkfulbnb,
   // space,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
 } from '../assets';
 
 export const navLinks = [
@@ -84,21 +76,21 @@ const experiences = [
   {
     title: 'Cross-Functional Store Manager',
     company_name: 'Carmax',
-    icon: microverse,
+    icon: '',
     iconBg: '#333333',
     date: 'Mar 2019 - Present',
   },
   {
     title: 'Software Developer',
     company_name: 'Thinkful',
-    icon: coverhunt,
+    icon: '',
     iconBg: '#333333',
     date: 'Aug 2023 - Jan 2024',
   },
   {
     title: 'Sales manager',
     company_name: 'Sprint',
-    icon: kelhel,
+    icon: '',
     iconBg: '#333333',
     date: 'May 2014 - Mar 2019',
   },
@@ -108,7 +100,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'Flashcard-o-matic',
-    description: 'A comic characters list app that displays Marvel characters.',
+    description: 'An online study application that gives teachers the ability to create, read, update, edit, and delete decks and cards for their students to study.',
     tags: [
       {
         name: 'react',
@@ -123,15 +115,15 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
+    image: '',
+    repo: 'https://github.com/petrihcour/flashcard-app',
     demo: 'https://shaqdeff.github.io/KomiKult/',
   },
   {
     id: 'project-2',
     name: 'Thinkful-bnb',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'A static website that emulates AirBnB and focuses on a responsive, intuitive user interface with a mobile-first approach.',
     tags: [
       {
         name: 'react',
@@ -146,14 +138,14 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    image: thinkfulbnb,
+    repo: 'https://github.com/petrihcour/thinkfulbnb-project',
+    demo: 'https://petrihcour.github.io/thinkfulbnb-project/',
   },
   {
     id: 'project-3',
     name: 'WeLoveMovies',
-    description: 'This is a single-page calculator app built with React',
+    description: 'A database for a movie website, enabling users to search for their favorite movies.',
     tags: [
       {
         name: 'nextjs',
@@ -168,9 +160,9 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    image: '',
+    repo: 'https://github.com/petrihcour/WeLoveMovies-Backend',
+    demo: 'https://welovemovies-frontend-sjx0.onrender.com/',
   },
   // {
   //   id: 'project-4',

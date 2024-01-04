@@ -30,15 +30,13 @@ import nodejs from './tech/nodejs.png';
 import reactjs from './tech/reactjs.png';
 import postgresql from './tech/postgresql.png';
 
-import coverhunt from './company/coverhunt.png';
-import dcc from './company/dcc.png';
-import kelhel from './company/kelhel.png';
+import carmax from './company/carmax.png';
+import thinkful from './company/thinkful.png';
+import sprint from './company/sprint.png';
 
-import math from './projects/math-magicians.png';
-import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
-import space from './projects/space-hub.png';
-import thinkfulbnb from './projects/Thinkfulbnb.png'
+import flashcard from './projects/flashcard.jpeg';
+import thinkfulbnb from './projects/thinkfulbnb.jpeg';
+import welovemovies from './projects/welovemovies.jpeg';
 
 export {
   upsidedown,
@@ -68,12 +66,10 @@ export {
   nodejs,
   postgresql,
   reactjs,
-  math,
-  movie,
-  nyeusi,
-  space,
-  coverhunt,
-  dcc,
-  kelhel,
+  carmax,
+  thinkful,
+  sprint,
+  flashcard,
   thinkfulbnb,
+  welovemovies,
 };

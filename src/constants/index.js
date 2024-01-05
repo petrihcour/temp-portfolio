@@ -131,7 +131,7 @@ const projects = [
     ],
     image: flashcard,
     repo: 'https://github.com/petrihcour/flashcard-app',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    demo: 'https://flashcard-o-matic-9frr.onrender.com',
   },
   {
     id: 'project-2',

@@ -1,6 +1,7 @@
 import whiteabstract from './backgrounds/white-abstract.png';
 import blackstripes from './backgrounds/black-stripes.jpeg';
 import upsidedown from './backgrounds/upsidedown.jpeg';
+import beach from './backgrounds/beach.jpeg';
 
 import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
@@ -21,6 +22,7 @@ import menu from './icons/menu.png';
 import resume from './icons/resume.png';
 import send from './icons/send.png';
 import sendHover from './icons/sendHover.png';
+import leadership from './icons/leadership.png'
 
 import css from './tech/css.png';
 import git from './tech/git.png';
@@ -29,6 +31,7 @@ import javascript from './tech/javascript.png';
 import nodejs from './tech/nodejs.png';
 import reactjs from './tech/reactjs.png';
 import postgresql from './tech/postgresql.png';
+import tailwind from './tech/tailwind.png';
 
 import carmax from './company/carmax.png';
 import thinkful from './company/thinkful.png';
@@ -42,11 +45,13 @@ export {
   upsidedown,
   whiteabstract,
   blackstripes,
+  beach,
   logo,
   logotext,
   vanessa,
   backend,
   ux,
+  leadership,
   frontend,
   prototyping,
   github,
@@ -66,6 +71,7 @@ export {
   nodejs,
   postgresql,
   reactjs,
+  tailwind,
   carmax,
   thinkful,
   sprint,

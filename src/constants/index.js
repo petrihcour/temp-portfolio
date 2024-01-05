@@ -1,6 +1,7 @@
 import {
   frontend,
   backend,
+  leadership,
   // ux,
   // prototyping,
   javascript,
@@ -10,6 +11,7 @@ import {
   nodejs,
   git,
   postgresql,
+  tailwind,
   carmax,
   thinkful,
   sprint,
@@ -41,6 +43,10 @@ const services = [
   {
     title: 'Backend Developer',
     icon: backend,
+  },
+  {
+    title: 'Leader',
+    icon: leadership,
   }
 ];
 
@@ -73,6 +79,10 @@ const technologies = [
   {
     name: 'git',
     icon: git,
+  },
+  {
+    name: 'tailwind',
+    icon: tailwind,
   }
 ];
 

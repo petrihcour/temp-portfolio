@@ -3,7 +3,7 @@ import trees from './backgrounds/trees.jpeg';
 import beach from './backgrounds/beach.jpeg';
 
 import logo from './logo/logo-black.png';
-import logotext from './logo/logo-text-black.png';
+import logotext from './logo/vanessa-logo1.png';
 
 import vanessa from './personal/vanessa.jpeg';
 

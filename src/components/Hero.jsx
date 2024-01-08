@@ -2,21 +2,21 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
-import { vanessa, blackstripes } from '../assets';
+import { vanessa, trees } from '../assets';
 
 const Hero = () => {
   return (
     <>
       <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
         <img
-          src={blackstripes}
+          src={trees}
           alt="world map"
           className="w-full h-full sm:block hidden object-cover"
         />
       </div>
       <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
         <img
-          src={blackstripes}
+          src={trees}
           alt="world map"
           className="w-full h-full sm:hidden block object-cover"
         />

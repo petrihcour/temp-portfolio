@@ -1,7 +1,6 @@
 import {
   frontend,
   backend,
-  leadership,
   // ux,
   // prototyping,
   javascript,
@@ -44,10 +43,6 @@ const services = [
     title: 'Backend Developer',
     icon: backend,
   },
-  {
-    title: 'Leader',
-    icon: leadership,
-  }
 ];
 
 // add in Express, Bootstrap

@@ -1,6 +1,5 @@
-import whiteabstract from './backgrounds/white-abstract.png';
-import blackstripes from './backgrounds/black-stripes.jpeg';
-import upsidedown from './backgrounds/upsidedown.jpeg';
+import white3d from './backgrounds/white3d.png';
+import trees from './backgrounds/trees.jpeg';
 import beach from './backgrounds/beach.jpeg';
 
 import logo from './logo/logo-black.png';
@@ -22,7 +21,6 @@ import menu from './icons/menu.png';
 import resume from './icons/resume.png';
 import send from './icons/send.png';
 import sendHover from './icons/sendHover.png';
-import leadership from './icons/leadership.png'
 
 import css from './tech/css.png';
 import git from './tech/git.png';
@@ -42,16 +40,14 @@ import thinkfulbnb from './projects/thinkfulbnb.jpeg';
 import welovemovies from './projects/welovemovies.jpeg';
 
 export {
-  upsidedown,
-  whiteabstract,
-  blackstripes,
+  white3d,
+  trees,
   beach,
   logo,
   logotext,
   vanessa,
   backend,
   ux,
-  leadership,
   frontend,
   prototyping,
   github,

@@ -10,14 +10,14 @@ const Hero = () => {
       <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
         <img
           src={trees}
-          alt="world map"
+          alt="trees from pikes peak colorado"
           className="w-full h-full sm:block hidden object-cover"
         />
       </div>
       <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
         <img
           src={trees}
-          alt="world map"
+          alt="trees from pikes peak colorado"
           className="w-full h-full sm:hidden block object-cover"
         />
       </div>
@@ -37,7 +37,7 @@ const Hero = () => {
           <div>
             <h1
               className={`${styles.heroHeadText} text-eerieBlack font-poppins uppercase`}>
-              Howdy! I'm {''}
+              Howdy, I'm {''}
               <span
                 className="sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova

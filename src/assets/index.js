@@ -15,12 +15,12 @@ import github from './icons/github.png';
 import close from './icons/close.png';
 import download from './icons/download.png';
 import downloadHover from './icons/downloadHover.png';
-import pineapple from './icons/pineapple.png';
-import pineappleHover from './icons/pineappleHover.png';
 import menu from './icons/menu.png';
 import resume from './icons/resume.png';
 import send from './icons/send.png';
 import sendHover from './icons/sendHover.png';
+import d20 from './icons/d20.png';
+import d20Hover from './icons/d20-hover.png';
 
 import css from './tech/css.png';
 import git from './tech/git.png';
@@ -54,8 +54,8 @@ export {
   close,
   download,
   downloadHover,
-  pineapple,
-  pineappleHover,
+  d20,
+  d20Hover,
   menu,
   resume,
   send,

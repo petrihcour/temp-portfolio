@@ -84,7 +84,7 @@ const Hero = () => {
         {/* Your image comes here. Feel free to remove image if you don't plan to have one.*/}
         <div>
           <img
-            className="absolute bottom-0 ml-[55vw] 
+            className="absolute bottom-0 ml-[50vw] 
             lg:ml-[67vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[72vw]
             sm:h-[60vh] md:h-[65vh] xl:h-[80vh]"
             src={vanessa}

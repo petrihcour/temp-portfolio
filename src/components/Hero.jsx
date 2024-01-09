@@ -36,11 +36,11 @@ const Hero = () => {
 
           <div>
             <h1
-              className={`${styles.heroHeadText} text-eerieBlack font-poppins uppercase text-[35px] `}>
+              className={`${styles.heroHeadText} text-eerieBlack font-poppins uppercase text-[29px]`}>
               Howdy, I'm {''}
               <span
                 className="sm:text-battleGray sm:text-[90px] 
-                text-eerieBlack text-[50px] font-mova
+                text-eerieBlack text-[45px] font-mova
                 font-extrabold uppercase">
                 Vanessa
               </span>

@@ -40,16 +40,14 @@ const About = () => {
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
       >
         Hello again! I'm Vanessa, a Software Developer diving headfirst into the
-        world of pixels and possibilities (don't worry, I have a helmet on). With an excitement for creating seamless
-        digital experiences, I've become fluent in the languages of JavaScript,
-        React, HTML, and CSS.  However, my journey extends beyond programming; it's shaped by five years of dynamic leadership and creative problem-solving in the ever-evolving realm of retail management. {" "}
+        world of pixels and possibilities (don't worry, I have a helmet on). I've become fluent in the languages of JavaScript,
+        React, HTML, and CSS. One of the most satisfying aspects of technology for me is creating seamless user experiences that function responsively while also maintaining an aesthetically pleasing appearance. My journey extends beyond programming; it's shaped by five years of dynamic leadership and creative problem-solving in the ever-evolving realm of retail management. {" "}
       </motion.p>
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
       >
-        Beyond the screen, I'm a curious explorer, always seeking new
-        horizons across the United States. Whether I'm enhancing technology to
+        Beyond the screen, I'm a curious explorer, always looking for the next place to travel across the United States. Whether I'm enhancing technology to
         improve lives, getting lost in the frisson of live music, or immersing myself in the Dungeons & Dragons multiverse, my passion
         knows no bounds. The thrill of exploring and discovering new things shapes my journey in both tech and life.{" "}
       </motion.p>

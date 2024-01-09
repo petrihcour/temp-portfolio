@@ -10,6 +10,7 @@ import vanessa from './personal/vanessa.jpeg';
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
+import projectManagement from './icons/project-management.png';
 import prototyping from './icons/prototyping.png';
 import github from './icons/github.png';
 import close from './icons/close.png';
@@ -47,6 +48,7 @@ export {
   logotext,
   vanessa,
   backend,
+  projectManagement,
   ux,
   frontend,
   prototyping,

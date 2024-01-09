@@ -1,8 +1,7 @@
 import {
   frontend,
   backend,
-  // ux,
-  // prototyping,
+  projectManagement,
   javascript,
   html,
   css,
@@ -42,6 +41,10 @@ const services = [
   {
     title: 'Backend Developer',
     icon: backend,
+  },
+  {
+    title: 'Project Management',
+    icon: projectManagement,
   },
 ];
 
@@ -101,7 +104,7 @@ const experiences = [
     company_name: 'Sprint',
     icon: sprint,
     iconBg: '#333333',
-    date: 'May 2014 - Mar 2019',
+    date: 'Apr 2014 - Mar 2019',
   },
 ];
 

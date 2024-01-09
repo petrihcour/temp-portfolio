@@ -98,7 +98,7 @@ const ProjectCard = ({
               <img
                 src={d20}
                 alt="pineapple"
-                className="btn-icon sm:w-[34px] sm:h-[34px] 
+                className="btn-icon sm:w-[25px] sm:h-[25px] 
                   w-[35px] h-[35px] object-contain"
               />
               LIVE DEMO

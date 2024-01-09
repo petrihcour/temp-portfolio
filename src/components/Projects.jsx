@@ -77,8 +77,8 @@ const ProjectCard = ({
             </p>
             <button
               className="live-demo flex justify-between 
-              sm:text-[14px] text-[13px] text-timberWolf 
-              font-bold font-beckman items-center py-5 pl-2 pr-3 
+              sm:text-[16px] text-[13px] text-timberWolf 
+              font-bold font-beckman items-center py-5 pl-2 pr-4 
               whitespace-nowrap gap-1 sm:w-[138px] sm:h-[50px] 
               w-[125px] h-[46px] rounded-[10px] glassmorphism 
               sm:mt-[22px] mt-[16px] hover:bg-battleGray 
@@ -98,8 +98,8 @@ const ProjectCard = ({
               <img
                 src={d20}
                 alt="pineapple"
-                className="btn-icon sm:w-[30px] sm:h-[30px] 
-                  w-[35px] h-[35px] object-contain"
+                className="btn-icon sm:w-[28px] sm:h-[30px] 
+                  w-[28px] h-[30px] object-contain"
               />
               LIVE DEMO
             </button>

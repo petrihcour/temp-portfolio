@@ -46,9 +46,9 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Software Developer, <br className="sm:block hidden" />
-              Dungeons & Dragons lover, <br className="sm:block hidden" />
-              cat mom.
+              Software Developer. <br className="sm:block hidden" />
+              Dungeons & Dragons obsessed. <br className="sm:block hidden" />
+              Cat mom.
             </p>
           </div>
           <div

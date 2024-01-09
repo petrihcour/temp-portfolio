@@ -40,6 +40,10 @@ const App = () => {
         <div className="relative z-0">
           <Contact />
         </div>
+        <div className="text-center text-xs text-popper text-zinc-700">
+          Portfolio Created by <a href="https://github.com/shaqdeff/Portfolio-Template" target="_blank" rel="noreferrer">Shaq Deff</a>
+          
+        </div>
       </div>
     </BrowserRouter>
   );

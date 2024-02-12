@@ -39,6 +39,7 @@ import sprint from './company/sprint.png';
 import flashcard from './projects/flashcard.jpeg';
 import thinkfulbnb from './projects/thinkfulbnb.jpeg';
 import welovemovies from './projects/welovemovies.jpeg';
+import restaurantreservation from './projects/restaurant-reservation.png';
 
 export {
   white3d,
@@ -76,4 +77,5 @@ export {
   flashcard,
   thinkfulbnb,
   welovemovies,
+  restaurantreservation,
 };

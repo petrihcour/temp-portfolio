@@ -16,6 +16,7 @@ import {
   flashcard,
   thinkfulbnb,
   welovemovies,
+  restaurantreservation,
 } from '../assets';
 
 export const navLinks = [
@@ -119,11 +120,11 @@ const projects = [
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'api',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'bootstrap',
         color: 'pink-text-gradient',
       },
     ],
@@ -138,21 +139,17 @@ const projects = [
       'A static website that emulates AirBnB and focuses on a responsive, intuitive user interface with a mobile-first approach.',
     tags: [
       {
-        name: 'react',
+        name: 'html',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'css',
         color: 'green-text-gradient',
-      },
-      {
-        name: 'scss',
-        color: 'pink-text-gradient',
       },
     ],
     image: thinkfulbnb,
     repo: 'https://github.com/petrihcour/thinkfulbnb-project',
-    demo: 'https://petrihcour.github.io/thinkfulbnb-project/',
+    demo: 'https://petrihcour.github.io/thinkfulbnb-project',
   },
   {
     id: 'project-3',
@@ -160,21 +157,43 @@ const projects = [
     description: 'A database for a movie website, enabling users to search for their favorite movies.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'nodejs',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'restapi',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'bootstrap',
         color: 'pink-text-gradient',
       },
     ],
     image: welovemovies,
     repo: 'https://github.com/petrihcour/WeLoveMovies-Backend',
-    demo: 'https://welovemovies-frontend-sjx0.onrender.com/',
+    demo: 'https://welovemovies-frontend-sjx0.onrender.com',
+  },
+  {
+    id: 'project-4',
+    name: 'Periodic Tables',
+    description: 'A full stack application designed for fine-dining restaurant management that allows users to: create, edit, or cancel reservations; efficiently seat customers.',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'nodejs',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'bootstrap',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: restaurantreservation,
+    repo: 'https://github.com/petrihcour/restaurant-reservation',
+    demo: 'https://reservation-restaurant-jkbn.onrender.com',
   },
 ];
 

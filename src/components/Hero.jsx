@@ -35,15 +35,15 @@ const Hero = () => {
           <div>
             <h1
               className={`${styles.heroHeadText} text-eerieBlack font-poppins uppercase text-[29px]`}>
-              Howdy, I'm {''}
+              I&apos;m {''}
               <span
-                className="sm:text-battleGray sm:text-[90px] 
+                className="sm:text-[90px] 
                 text-eerieBlack text-[45px] font-mova
                 font-extrabold uppercase">
                 Vanessa
               </span>
             </h1>
-            <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
+            <p className={`${styles.heroSubText} mt-2 text-zinc-700 text-[12px]`}>
               Software Developer. <br className="sm:block hidden" />
               Dungeons & Dragons obsessed. <br className="sm:block hidden" />
               Cat mom.
